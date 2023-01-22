@@ -1,0 +1,20 @@
+Welcome to GETWUW!!!
+SECTIONS
+MODULE GET
+REQUEST SET
+SHOWALL
+ABOUT
+
+1)MODULE GET:::
+	type any python module and get information about it.
+	operations:	YOU CAN EDIT
+		     YOU CAN DOWNLOAD
+	ADD IF NO DATA AVAILABLE
+2)REQUEST SET::
+	if your required module is not present you can send a request to the developer
+3)SHOWALL::
+	shows you all availabe modules in this application
+4)ABOUT::
+	devlopers
+	reviews
+	feedback
